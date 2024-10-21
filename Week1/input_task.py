@@ -14,5 +14,5 @@ print("please enter your Height")
 height = float(input())
 print(f"Your Height is {height}")
 
-bmi = weight / (height * 2)
+bmi = weight / (height** 2)
 print(f"{name} your BMI is {bmi}")
