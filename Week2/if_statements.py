@@ -22,3 +22,19 @@ else:
     print ("Wrong input by user")
 print("Activity completed!")
 
+# Third Task
+
+print("Towards which direction should I go (up, down, right, left)?")
+
+direction = input()
+
+if direction == "up":
+    print("moving in an upward direction!")
+elif direction == "down":
+    print("moving in an downward direction!")
+elif direction == "right":
+    print("moving in an right direction!")
+elif direction == "left":
+    print("moving in an left direction!")
+else:
+    print("Wrong input by user")
