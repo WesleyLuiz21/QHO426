@@ -3,6 +3,3 @@ print("Hello World " + name2)
 print(name2)
 
 
-
-
-
