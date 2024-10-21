@@ -10,3 +10,15 @@ else:
 
 print("Finished reading book.")
 
+# Second Task
+
+print("Please enter the activity to be performed.")
+
+activity = input()
+
+if activity == "calculate":
+    print("Performing calculations...")
+else:
+    print ("Wrong input by user")
+print("Activity completed!")
+
