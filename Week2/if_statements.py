@@ -38,3 +38,4 @@ elif direction == "left":
     print("moving in an left direction!")
 else:
     print("Wrong input by user")
+
