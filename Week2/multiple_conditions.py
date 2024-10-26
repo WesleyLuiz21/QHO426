@@ -8,3 +8,4 @@ elif (type_adventure == "safe") or (type_adventure == "long"):
 else:
     print("Not sure what route to take.")
 
+
