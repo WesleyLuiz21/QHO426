@@ -1,7 +1,7 @@
-user_response = int(input("How many rows should a have?"))
-user_response2 = int(input("How many columns should a have?\n"))
+user_response = int(input("How many rows should it have? "))
+user_response2 = int(input("How many columns should it have?\n"))
 
-for i in range(0, user_response2, 1):
-    for j in range(0, user_response2, 1):
-        print(f"{":-)" * user_response}")
-
+for i in range(user_response):
+    for j in range(user_response2):
+        print(":-)", end=" ")
+    print()
