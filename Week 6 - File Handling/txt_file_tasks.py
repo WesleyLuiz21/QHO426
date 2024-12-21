@@ -1,6 +1,5 @@
 import os
 
-
 def cwd():
 
     # Retrieve the current working directory
