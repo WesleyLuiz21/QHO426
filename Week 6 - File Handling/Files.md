@@ -58,3 +58,13 @@ data = {
 json_data = json.dumps(data)
 requests.post("https://somesite.com/post", json=json_data)
 ```
+
+
+## Text  Files
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
